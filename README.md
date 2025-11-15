@@ -97,7 +97,7 @@ Classification Report:
 
                Normal       1.00      1.00      1.00       284
      Heart arrhythmia       1.00      1.00      1.00       233
-Myocardial Infarction       1.00      1.00      1.00       239
+     Myocardial Infarction       1.00      1.00      1.00       239
 
              accuracy                           1.00       756
             macro avg       1.00      1.00      1.00       756
