@@ -35,9 +35,9 @@ ECG Heartbeat Classification Image Dataset
 | **Myocardial Infarction (MI)** | ECG of patients with heart attack |
 
 ### Data Split:
-- **70% Training**
-- **15% Validation**
-- **15% Testing**
+- **90% Training**
+- **10% Validation**
+- There is a seperate dataset for testing. So, seperate dataset is used for testing of model.
 
 ---
 
